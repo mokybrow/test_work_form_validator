@@ -1,0 +1,19 @@
+{
+    "_default": {
+        "1": {
+            "name": "Employee Form",
+            "birthdate": "date",
+            "fname": "str",
+            "email": "email",
+            "phone_number": "phone"
+        },
+        "2": {
+            "name": "Candidate Form",
+            "birthdate": "date",
+            "fname": "str",
+            "education": "str",
+            "email": "email",
+            "phone_number": "phone"
+        }
+    }
+}
